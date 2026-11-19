@@ -25,4 +25,4 @@ Disallow: /temporary screenshots/
 Disallow: /raw_originals_backup/
 
 # XML Sitemap
-Sitemap: https://srikailaisweets.com/sitemap.xml
+Sitemap: https://www.srikailai.in/sitemap.xml
