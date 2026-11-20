@@ -1,7 +1,16 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
-  "cleanUrls": true,
   "trailingSlash": false,
+  "rewrites": [
+    {
+      "source": "/bakery-sweets",
+      "destination": "/bakery-sweets.html"
+    },
+    {
+      "source": "/events-catering",
+      "destination": "/events-catering.html"
+    }
+  ],
   "headers": [
     {
       "source": "/(.*)",
