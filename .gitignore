@@ -20,6 +20,7 @@ areas/
 *area*
 
 # Large uncompressed raw assets & backup archives
+brand assets/cake_hd_backup/
 brand assets/raw_originals_backup/
 brand assets/IMG-20260828-WA*.jpg
 brand assets/*_original.*
